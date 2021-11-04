@@ -6,9 +6,21 @@ https://github.com/doanhxd/Razer-Blade-15-Advanced-2018-Hackintosh
 
 https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey
 
-用标准版的OC我直接无法引导，精英版的能用，但有点小问题，自己稍微修复了下，至少我自己的电脑能用了
+用标准版的OC直接无法引导，精英版的能用，但有点小问题，就稍微改了下，至少我自己的电脑能用了
 
 采用了mod版OC 0.7.4，正式版的会导致引导不了Windows，开机就蓝屏报错ACPI BIOS ERROR
+
+记得自己补全下三码
+
+![QQ截图20211104103106](https://user-images.githubusercontent.com/70944645/140248038-a5461053-c2a7-431e-84e7-4b5ed04b782f.jpg)
+
+HEVC硬解正常
+
+![截屏2021-11-03 23 49 53](https://user-images.githubusercontent.com/70944645/140248155-056be1fd-105a-453d-9798-fa553eb7a771.png)
+
+外接显示器最好用Type-C的，我这边能用，但分辨率有点奇怪，之后有空再修复
+
+<img width="1424" alt="截屏2021-11-03 23 50 51" src="https://user-images.githubusercontent.com/70944645/140248248-2394a415-2c42-49b8-8aa6-cb268bb4728e.png">
 
 更换过无线网卡BCM94352Z，Intel原装网卡自己添加下驱动就好
 
