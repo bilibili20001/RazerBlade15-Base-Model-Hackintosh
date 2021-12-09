@@ -8,7 +8,7 @@ https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey
 
 用标准版的OC直接无法引导，精英版的能用，但有点小问题，就稍微改了下，至少我自己的电脑能用了
 
-采用了mod版OC 0.7.4，正式版的会导致引导不了Windows，开机就蓝屏报错ACPI BIOS ERROR
+采用了mod版OC 0.7.6，正式版的会导致引导不了Windows，开机就蓝屏报错ACPI BIOS ERROR
 
 记得自己补全下三码
 
@@ -30,10 +30,6 @@ https://github.com/OpenIntelWireless/itlwm
 
 1.隔空投送只能单向传输，手机到电脑没问题，电脑到手机有问题，看远景貌似是这款网卡的通病，暂时无解
 
-2.无法使用耳机孔，尝试注入了21，69等，都无法解决
-
-解决方法（暂定）：
-
-直接使用蓝牙耳机或者买个蓝牙接收器
+2.开机默认耳机输出，扬声器外放需要手动切换下，如需自动切换使用蓝牙耳机即可
 
 <img width="1424" alt="139776457-a5e7efa6-c240-44ff-8460-2e7b62cb8da7" src="https://user-images.githubusercontent.com/70944645/140242543-2c0b72e9-d4e0-45a4-b91d-cccd524d00b3.png">
