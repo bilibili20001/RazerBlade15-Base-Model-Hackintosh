@@ -1,4 +1,4 @@
-# RazerBlade15-Base-Model-Hackintosh
+## 使用说明：
 
 采用了mod版OC 0.7.6，正式版的会导致引导不了Windows，开机就蓝屏报错ACPI BIOS ERROR
 
@@ -20,7 +20,7 @@
 
 - 更换过无线网卡BCM94352Z，Intel原装网卡自己添加下驱动就好
 
-<a href="https://github.com/OpenIntelWireless/itlwm"> <img src="https://img.shields.io/github/v/release/OpenIntelWireless/itlwm"/> </a>
+<a href="https://github.com/OpenIntelWireless/itlwm/releases"> <img src="https://img.shields.io/github/v/release/OpenIntelWireless/itlwm"/> </a>
 
 ## 已知问题：
 
