@@ -1,5 +1,9 @@
 ## 使用说明：
 
+**参考了这位大佬**
+
+<a href="https://github.com/Mother-FKR/RazerBlade15-Base-Model-Hackintosh_macOS_Big_Sur"> <img src="https://img.shields.io/github/v/release/Mother-FKR/RazerBlade15-Base-Model-Hackintosh_macOS_Big_Sur"/> </a>
+
 采用了mod版OC 0.7.6，正式版的会导致引导不了Windows，开机就蓝屏报错ACPI BIOS ERROR
 
 **⚠️：记得自己补全下三码！** 
