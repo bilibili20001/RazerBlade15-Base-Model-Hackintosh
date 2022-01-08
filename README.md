@@ -32,6 +32,8 @@
 
 2.开机默认耳机输出，扬声器外放需要手动切换下，如需自动切换使用蓝牙耳机即可
 
+3.外接显示器无声音输出
+
 <img width="1424" alt="截屏2021-12-09 15 13 41" src="https://user-images.githubusercontent.com/70944645/145360445-f77000f7-0b97-494d-822e-d5ceafa128d6.png">
 
 <img width="1424" alt="139776457-a5e7efa6-c240-44ff-8460-2e7b62cb8da7" src="https://user-images.githubusercontent.com/70944645/140242543-2c0b72e9-d4e0-45a4-b91d-cccd524d00b3.png">
