@@ -45,7 +45,7 @@
 				<key>kUSBWakePortCurrentLimit</key>
 				<integer>2100</integer>
 				<key>kUSBWakePowerSupply</key>
-				<integer>3700</integer>
+				<integer>3200</integer>
 				<key>port-count</key>
 				<data>
 				EwAAAA==
@@ -96,6 +96,17 @@
 						BQAAAA==
 						</data>
 					</dict>
+					<key>HS07</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>name</key>
+						<string>HS07</string>
+						<key>port</key>
+						<data>
+						BwAAAA==
+						</data>
+					</dict>
 					<key>HS08</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -105,17 +116,6 @@
 						<key>port</key>
 						<data>
 						CAAAAA==
-						</data>
-					</dict>
-					<key>HS11</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>8</integer>
-						<key>name</key>
-						<string>HS11</string>
-						<key>port</key>
-						<data>
-						CwAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
@@ -149,6 +149,52 @@
 						<key>port</key>
 						<data>
 						EwAAAA==
+						</data>
+					</dict>
+				</dict>
+			</dict>
+			<key>model</key>
+			<string>MacBookPro15,2</string>
+		</dict>
+		<key>MacBookPro15,2-XHC-8086_15db</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBMergeNub</string>
+			<key>IOClass</key>
+			<string>AppleUSBMergeNub</string>
+			<key>IONameMatch</key>
+			<string>XHC</string>
+			<key>IOPCIPrimaryMatch</key>
+			<string>0x15db8086</string>
+			<key>IOProbeScore</key>
+			<integer>5000</integer>
+			<key>IOProviderClass</key>
+			<string>AppleUSBXHCIAR</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>kUSBSleepPortCurrentLimit</key>
+				<integer>2100</integer>
+				<key>kUSBSleepPowerSupply</key>
+				<integer>2600</integer>
+				<key>kUSBWakePortCurrentLimit</key>
+				<integer>2100</integer>
+				<key>kUSBWakePowerSupply</key>
+				<integer>3200</integer>
+				<key>port-count</key>
+				<data>
+				AwAAAA==
+				</data>
+				<key>ports</key>
+				<dict>
+					<key>SS01</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>9</integer>
+						<key>name</key>
+						<string>SS01</string>
+						<key>port</key>
+						<data>
+						AwAAAA==
 						</data>
 					</dict>
 				</dict>
